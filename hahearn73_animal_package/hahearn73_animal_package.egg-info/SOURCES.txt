@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+hahearn73_animal_package.egg-info/PKG-INFO
+hahearn73_animal_package.egg-info/SOURCES.txt
+hahearn73_animal_package.egg-info/dependency_links.txt
+hahearn73_animal_package.egg-info/top_level.txt
+mammal/__init__.py
+mammal/human.py
